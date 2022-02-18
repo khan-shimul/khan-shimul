@@ -4,12 +4,12 @@
 Determined Web Developer with the ability to adapt in both self-starting and collaborative environments. Experience in Designing, Developing, and Debugging. Passionate about building first-class web applications. I always love to do clean and reusable code.
 
 ## Skills: 
-✅ JavaScript / ES6 
-✅ REACT JS
-✅ Next JS
-✅ MongoDB / Express JS / Node JS 
+✅ JavaScript / ES6 <br>
+✅ REACT JS <br>
+✅ Next JS <br>
+✅ MongoDB / Express JS / Node JS <br>
 ✅ Firebase
-✅ Bootstrap / Material UI / Tailwind / HTML / CSS
+✅ Bootstrap / Material UI / Tailwind / HTML / CSS <br>
 
 - 🔭 I’m currently working on Brainzet Technology 
 - 🌱 I’m currently learning Next JS 
