@@ -8,7 +8,7 @@ Determined Web Developer with the ability to adapt in both self-starting and col
 ✅ REACT JS <br>
 ✅ Next JS <br>
 ✅ MongoDB / Express JS / Node JS <br>
-✅ Firebase
+✅ Firebase <br>
 ✅ Bootstrap / Material UI / Tailwind / HTML / CSS <br>
 
 - 🔭 I’m currently working on Brainzet Technology 
